@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">WorkManager</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo_list">todo list</string>
+    <string name="app_splash_ic_description">splash icon</string>
+    <string name="btn_get_started">Get Started</string>
+    <string name="slider1_title">Welcome to todo list</string>
+    <string name="slider1_description">Whats going to happen tomorrow?</string>
+    <string name="ic_slider_description">slider icon</string>
+    <string name="slider_background_description">slider background</string>
+    <string name="slider2_title">Work happens</string>
+    <string name="slider2_description">Get notified when work happens.</string>
+    <string name="slider3_title">Tasks and assign</string>
+    <string name="slider3_description">Task and assign them to colleagues.</string>
 </resources>
